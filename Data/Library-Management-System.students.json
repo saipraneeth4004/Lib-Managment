@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "659eeaa27e96f0956e2bdfbb"
+  },
+  "name": "Arjun Sarkar",
+  "username": "arjun",
+  "mobile": "9131811763",
+  "password": "$2a$10$XBvzAbZ4KslynzyYAq7CY...Q4xoglC8aLqjIO9KM9uUfZxK6Tvaa",
+  "SID": "SID73322",
+  "Status": "Active",
+  "isAdmin": false,
+  "issuedBook": [
+    {
+      "$oid": "659eef3df5f80357f4ddd33a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-01-10T19:06:10.322Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T17:56:49.279Z"
+  },
+  "__v": 28
+},
+{
+  "_id": {
+    "$oid": "659eeb0f7e96f0956e2bdfc3"
+  },
+  "name": "admin",
+  "username": "admin",
+  "mobile": "0000000000",
+  "password": "$2a$10$TIAhafCM8rDkGcLs/ufsfeHe9Y0TexhxvSOttZ56f6RTaOVo/bh1i",
+  "SID": "SID14362",
+  "Status": "Active",
+  "isAdmin": true,
+  "issuedBook": [],
+  "createdAt": {
+    "$date": "2024-01-10T19:07:59.702Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-10T19:07:59.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a0d9bedfcebfa2a5bcdecc"
+  },
+  "name": "Akash",
+  "username": "akashh",
+  "mobile": "0000000000",
+  "password": "$2a$10$QXlXMBzxF7HZ/6QijFCyTOc4oJ7yksOHKyOhRxGjow7yAcPi9uoS6",
+  "SID": "SID84056",
+  "Status": "Active",
+  "isAdmin": false,
+  "issuedBook": [
+    {
+      "$oid": "65a5809420db510f1ebe3da6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-01-12T06:18:38.868Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T19:00:40.687Z"
+  },
+  "__v": 9
+},
+{
+  "_id": {
+    "$oid": "65a640bbb7fc416643d3d8eb"
+  },
+  "name": "Mayank Kumar",
+  "username": "mayank",
+  "mobile": "9832435499",
+  "password": "$2a$10$ZiDXyE41nEljAALuYeaqMOsgupJuUpyC9twG0n88f8ZNooA5Z14tm",
+  "SID": "SID37609",
+  "Status": "Active",
+  "isAdmin": false,
+  "issuedBook": [],
+  "createdAt": {
+    "$date": "2024-01-16T08:39:23.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T08:50:51.581Z"
+  },
+  "__v": 2
+}]

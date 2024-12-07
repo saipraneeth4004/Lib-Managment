@@ -1,0 +1,33 @@
+
+.dashboard-Parent{
+    margin: 5vh;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 5vh;
+    justify-content: center;
+}
+
+.card div>img{
+    height: 5vh;
+    width: 5vw;
+    object-fit: cover;
+}
+
+.card{
+    height: 30vh;
+    width: 20vw;
+    margin: 2vh;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.card div{
+    margin-bottom: 3vh;
+}

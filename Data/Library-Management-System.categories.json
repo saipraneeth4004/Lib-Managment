@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "659eee53f5f80357f4ddd2f6"
+  },
+  "CategoryName": "Technology",
+  "Status": "Active",
+  "createdAt": {
+    "$date": "2024-01-10T19:21:55.623Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-10T19:21:55.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659eee60f5f80357f4ddd2fb"
+  },
+  "CategoryName": "Management",
+  "Status": "Inactive",
+  "createdAt": {
+    "$date": "2024-01-10T19:22:08.717Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T18:57:36.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659eee76f5f80357f4ddd305"
+  },
+  "CategoryName": "Programming",
+  "Status": "Active",
+  "createdAt": {
+    "$date": "2024-01-10T19:22:30.374Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-10T19:22:30.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5800d20db510f1ebe3d7e"
+  },
+  "CategoryName": "Fantasy",
+  "Status": "Active",
+  "createdAt": {
+    "$date": "2024-01-15T18:57:17.564Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T18:57:17.564Z"
+  },
+  "__v": 0
+}]

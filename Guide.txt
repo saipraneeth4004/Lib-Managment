@@ -1,0 +1,21 @@
+Setup
+Open FrontEnd Directory 
+Run Command : npm i (For Installing Dependencies)
+Then For Starting FrontEnd 
+Run Command : npm run dev
+
+Open BackEnd Directory 
+Run Command : npm i (For Installing Dependencies)
+Then For Starting BackEnd 
+Run Command : nodemon or npm start
+
+Admin Login 
+username : admin
+password : 123456
+
+user
+username - mayank
+pwd - 1234
+
+
+

@@ -1,0 +1,21 @@
+.nlinks{
+    padding: 1vw;
+    font-size: 17px;
+}
+.myNav{
+    height: 5vh;
+    width: 90vw;
+    margin: 2.5vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    font-weight: 800;
+    justify-content: space-between;
+}
+.navimg{
+    height: 35px;
+    width: 35px;
+    margin-top: 6vh;
+    margin-inline: 2vw;
+    object-fit: cover;
+}

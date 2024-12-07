@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "659eeeaaf5f80357f4ddd315"
+  },
+  "AuthorName": "Chetan Bhagat",
+  "createdAt": {
+    "$date": "2024-01-10T19:23:22.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-10T19:23:22.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659eeeb2f5f80357f4ddd31a"
+  },
+  "AuthorName": "RD Sharma",
+  "createdAt": {
+    "$date": "2024-01-10T19:23:30.531Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-10T19:23:30.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659eeec6f5f80357f4ddd31f"
+  },
+  "AuthorName": "Robert Kiosaki",
+  "createdAt": {
+    "$date": "2024-01-10T19:23:50.947Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-10T19:23:50.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a5803620db510f1ebe3d91"
+  },
+  "AuthorName": "R Madhawan",
+  "createdAt": {
+    "$date": "2024-01-15T18:57:58.716Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T18:58:10.002Z"
+  },
+  "__v": 0
+}]

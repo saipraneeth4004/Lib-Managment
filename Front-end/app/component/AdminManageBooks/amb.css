@@ -1,0 +1,5 @@
+.bookImg {
+    height: 100px;
+    object-fit: cover;
+    width: 80px;
+}

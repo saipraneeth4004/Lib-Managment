@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "65a2d28081c2d6ecd445e555"
+  },
+  "StudentId": "SID84056",
+  "ISBN": "12345",
+  "student": {
+    "$oid": "65a0d9bedfcebfa2a5bcdecc"
+  },
+  "returned": true,
+  "Fine": "250",
+  "createdAt": {
+    "$date": "2024-01-13T18:12:16.470Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T14:50:43.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a42afbe07b920a99bd2809"
+  },
+  "StudentId": "SID73322",
+  "ISBN": "45876",
+  "student": {
+    "$oid": "659eeaa27e96f0956e2bdfbb"
+  },
+  "returned": true,
+  "Fine": "50",
+  "createdAt": {
+    "$date": "2024-01-14T18:42:03.365Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:42:03.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a437f72007f769a48d0bb6"
+  },
+  "StudentId": "SID73322",
+  "ISBN": "95147",
+  "student": {
+    "$oid": "659eeaa27e96f0956e2bdfbb"
+  },
+  "returned": true,
+  "Fine": "90",
+  "createdAt": {
+    "$date": "2024-01-14T19:37:27.240Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T19:54:01.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a43c519a3d414a1818a0cf"
+  },
+  "StudentId": "SID84056",
+  "ISBN": "45876",
+  "student": {
+    "$oid": "65a0d9bedfcebfa2a5bcdecc"
+  },
+  "returned": true,
+  "Fine": "20",
+  "createdAt": {
+    "$date": "2024-01-14T19:56:01.950Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T19:57:58.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a571e1a4593c1c5dc3c921"
+  },
+  "StudentId": "SID73322",
+  "ISBN": "12345",
+  "student": {
+    "$oid": "659eeaa27e96f0956e2bdfbb"
+  },
+  "returned": false,
+  "Fine": "0",
+  "createdAt": {
+    "$date": "2024-01-15T17:56:49.263Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T17:56:49.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a580d820db510f1ebe3de2"
+  },
+  "StudentId": "SID84056",
+  "ISBN": "458961",
+  "student": {
+    "$oid": "65a0d9bedfcebfa2a5bcdecc"
+  },
+  "returned": false,
+  "Fine": "0",
+  "createdAt": {
+    "$date": "2024-01-15T19:00:40.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-15T19:00:40.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a64315b7fc416643d3da12"
+  },
+  "StudentId": "SID37609",
+  "ISBN": "95147",
+  "student": {
+    "$oid": "65a640bbb7fc416643d3d8eb"
+  },
+  "returned": true,
+  "Fine": "0",
+  "createdAt": {
+    "$date": "2024-01-16T08:49:25.113Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T08:50:51.571Z"
+  },
+  "__v": 0
+}]
